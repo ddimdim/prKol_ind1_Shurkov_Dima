@@ -1,0 +1,15 @@
+C:\Users\305-5\Desktop\Шурков\Коллекции\Stack\bin\Debug\Stack.exe.config
+C:\Users\305-5\Desktop\Шурков\Коллекции\Stack\bin\Debug\Stack.exe
+C:\Users\305-5\Desktop\Шурков\Коллекции\Stack\bin\Debug\Stack.pdb
+C:\Users\305-5\Desktop\Шурков\Коллекции\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Шурков\Коллекции\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Шурков\Коллекции\Stack\obj\Debug\Stack.exe
+C:\Users\305-5\Desktop\Шурков\Коллекции\Stack\obj\Debug\Stack.pdb
+C:\Users\shurk\Desktop\Works\Шурков\Коллекции\Stack\bin\Debug\Stack.exe.config
+C:\Users\shurk\Desktop\Works\Шурков\Коллекции\Stack\bin\Debug\Stack.exe
+C:\Users\shurk\Desktop\Works\Шурков\Коллекции\Stack\bin\Debug\Stack.pdb
+C:\Users\shurk\Desktop\Works\Шурков\Коллекции\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\shurk\Desktop\Works\Шурков\Коллекции\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\shurk\Desktop\Works\Шурков\Коллекции\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\shurk\Desktop\Works\Шурков\Коллекции\Stack\obj\Debug\Stack.exe
+C:\Users\shurk\Desktop\Works\Шурков\Коллекции\Stack\obj\Debug\Stack.pdb
